@@ -143,4 +143,4 @@ python student_scores.py
 python csv_to_sqlite.py customers.csv
 ```
 
-> If no file argument is passed, the script defaults to `users.csv` in the same directory.
+
