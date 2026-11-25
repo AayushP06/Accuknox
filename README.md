@@ -143,4 +143,5 @@ python student_scores.py
 python csv_to_sqlite.py customers.csv
 ```
 
-
+The most  important python  project  i  worked  upon is  this repo:https://github.com/AayushP06/TCP_Calibrator
+here's the link to the most complex database i worked upon:https://github.com/AayushP06/CODEBID/tree/main/codebid-1
